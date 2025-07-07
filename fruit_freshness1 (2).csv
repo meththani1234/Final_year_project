@@ -1,0 +1,230 @@
+Min,Type ,Temperature,Humidity,Methane,Firmness,color ,fresh fruits (Day),Stage
+1,Banana,29,93,227,364,green,fresh fruits (Day2),ripening process initate
+2,Banana,29,93,230,364,green,fresh fruits (Day2),ripening process initate
+3,Banana,29,93,238,364,green,fresh fruits (Day2),ripening process initate
+4,Banana,29,93,240,303,green,fresh fruits (Day2),ripening process initate
+5,Banana,29,94,243,303,green,fresh fruits (Day2),ripening process initate
+6,Banana,29,94,243,303,green,fresh fruits (Day2),ripening process initate
+7,Banana,29,94,245,300,green,fresh fruits (Day2),ripening process initate
+8,Banana,29,95,249,300,green,fresh fruits (Day2),ripening process initate
+9,Banana,29,95,248,300,green,fresh fruits (Day2),ripening process initate
+10,Banana,29,95,248,300,green,fresh fruits (Day2),ripening process initate
+11,Banana,29,95,249,337,green,fresh fruits (Day2),ripening process initate
+12,Banana,29,95,250,337,green,fresh fruits (Day2),ripening process initate
+13,Banana,29,95,253,338,green,fresh fruits (Day2),ripening process initate
+14,Banana,29,95,254,338,green,fresh fruits (Day2),ripening process initate
+15,Banana,29,95,255,339,green,fresh fruits (Day2),ripening process initate
+16,Banana,29,95,256,339,green,fresh fruits (Day2),ripening process initate
+17,Banana,29,95,258,339,green,fresh fruits (Day2),ripening process initate
+18,Banana,29,95,258,339,green,fresh fruits (Day2),ripening process initate
+19,Banana,29,95,259,339,green,fresh fruits (Day2),ripening process initate
+20,Banana,29,95,300,339,green,fresh fruits (Day2),ripening process initate
+21,Banana,29,95,320,339,green,fresh fruits (Day2),ripening process initate
+22,Banana,29,95,324,340,green,fresh fruits (Day2),ripening process initate
+23,Banana,29,95,324,341,green,fresh fruits (Day2),ripening process initate
+24,Banana,29,95,324,345,green,fresh fruits (Day2),ripening process initate
+25,Banana,29,95,325,400,green,fresh fruits (Day2),ripening process initate
+26,Banana,29,95,326,405,green,fresh fruits (Day2),ripening process initate
+27,Banana,29,95,327,410,green,fresh fruits (Day2),ripening process initate
+28,Banana,29,95,328,422,green,fresh fruits (Day2),ripening process initate
+29,Banana,29,95,329,426,green,fresh fruits (Day2),ripening process initate
+30,Banana,29,95,400,430,green,fresh fruits (Day2),ripening process initate
+31,Banana,29,95,401,433,green,fresh fruits (Day2),ripening process initate
+32,Banana,29,95,406,433,green,fresh fruits (Day2),ripening process initate
+33,Banana,29,95,408,435,green,fresh fruits (Day2),ripening process initate
+34,Banana,29,95,410,440,green,fresh fruits (Day2),ripening process initate
+35,Banana,29,95,413,443,green,fresh fruits (Day2),ripening process initate
+36,Banana,29,95,444,450,green,fresh fruits (Day2),ripening process initate
+37,Banana,29,95,421,456,green,fresh fruits (Day2),ripening process initate
+38,Banana,29,95,364,460,green,fresh fruits (Day2),ripening process initate
+39,Banana,29,95,364,460,green,fresh fruits (Day2),ripening process initate
+40,Banana,29,95,364,460,green,fresh fruits (Day2),ripening process initate
+41,Banana,29,95,303,460,green,fresh fruits (Day2),ripening process initate
+42,Banana,29,95,303,465,green,fresh fruits (Day2),ripening process initate
+43,Banana,29,93,308,468,green,fresh fruits (Day2),ripening process initate
+44,Banana,29,93,309,470,green,fresh fruits (Day2),ripening process initate
+45,Banana,29,93,310,472,green,fresh fruits (Day4),ready for retail display 
+1,Banana,29,93,311,472,green,fresh fruits (Day4),ready for retail display 
+2,Banana,29,94,315,472,green,fresh fruits (Day4),ready for retail display 
+3,Banana,29,94,316,472,green,fresh fruits (Day4),ready for retail display 
+4,Banana,29,94,320,472,green,fresh fruits (Day4),ready for retail display 
+5,Banana,29,95,322,480,green,fresh fruits (Day4),ready for retail display 
+6,Banana,29,95,326,485,green,fresh fruits (Day4),ready for retail display 
+7,Banana,29,95,330,486,green,fresh fruits (Day4),ready for retail display 
+8,Banana,29,95,337,487,green,fresh fruits (Day4),ready for retail display 
+9,Banana,29,95,337,487,green,fresh fruits (Day4),ready for retail display 
+10,Banana,29,95,338,487,green,fresh fruits (Day4),ready for retail display 
+11,Banana,29,95,338,487,green,fresh fruits (Day4),ready for retail display 
+12,Banana,29,95,339,487,green,fresh fruits (Day4),ready for retail display 
+13,Banana,29,95,339,489,green,fresh fruits (Day4),ready for retail display 
+14,Banana,29,95,339,400,green,fresh fruits (Day4),ready for retail display 
+15,Banana,29,95,339,405,green,fresh fruits (Day4),ready for retail display 
+16,Banana,29,95,339,410,green,fresh fruits (Day4),ready for retail display 
+17,Banana,29,95,339,422,green,fresh fruits (Day4),ready for retail display 
+18,Banana,29,95,339,426,green,fresh fruits (Day4),ready for retail display 
+19,Banana,29,95,400,430,green,fresh fruits (Day4),ready for retail display 
+20,Banana,29,95,496,433,green,fresh fruits (Day4),ready for retail display 
+21,Banana,29,95,494,433,green,fresh fruits (Day4),ready for retail display 
+22,Banana,29,95,493,435,green,fresh fruits (Day4),ready for retail display 
+23,Banana,29,95,489,440,green,fresh fruits (Day4),ready for retail display 
+24,Banana,29,95,460,443,green,fresh fruits (Day4),ready for retail display 
+25,Banana,29,95,460,450,green,fresh fruits (Day4),ready for retail display 
+26,Banana,29,95,460,456,green,fresh fruits (Day4),ready for retail display 
+27,Banana,29,95,460,460,green,fresh fruits (Day4),ready for retail display 
+28,Banana,29,95,452,460,green,fresh fruits (Day4),ready for retail display 
+29,Banana,29,95,452,460,green,fresh fruits (Day4),ready for retail display 
+30,Banana,29,95,452,460,green,fresh fruits (Day4),ready for retail display 
+31,Banana,29,95,452,465,green,fresh fruits (Day4),ready for retail display 
+32,Banana,29,95,452,468,green,fresh fruits (Day4),ready for retail display 
+33,Banana,29,95,444,470,green,fresh fruits (Day4),ready for retail display 
+34,Banana,29,95,421,472,green,fresh fruits (Day4),ready for retail display 
+35,Banana,29,95,364,472,green,fresh fruits (Day4),ready for retail display 
+36,Banana,29,95,364,472,green,fresh fruits (Day4),ready for retail display 
+37,Banana,29,95,364,472,green,fresh fruits (Day4),ready for retail display 
+38,Banana,29,95,303,472,green,fresh fruits (Day4),ready for retail display 
+39,Banana,29,95,303,480,green,fresh fruits (Day4),ready for retail display 
+40,Banana,29,95,303,485,green,fresh fruits (Day4),ready for retail display 
+41,Banana,29,95,300,496,green,fresh fruits (Day4),ready for retail display 
+42,Banana,29,95,300,494,green,fresh fruits (Day4),ready for retail display 
+43,Banana,29,95,300,493,green,fresh fruits (Day4),ready for retail display 
+44,Banana,29,95,300,489,green,fresh fruits (Day4),ready for retail display 
+45,Banana,29,95,337,460,green,fresh fruits (Day4),ready for retail display 
+1,Banana,29,95,337,460,green,fresh fruits (Day5),ready for retail display 
+2,Banana,29,95,338,460,green,fresh fruits (Day5),ready for retail display 
+3,Banana,29,96,338,460,green,fresh fruits (Day5),ready for retail display 
+4,Banana,29,96,339,452,green,fresh fruits (Day5),ready for retail display 
+5,Banana,29,96,339,452,green,fresh fruits (Day5),ready for retail display 
+6,Banana,29,98,339,452,green,fresh fruits (Day5),ready for retail display 
+7,Banana,29,98,339,452,green,fresh fruits (Day5),ready for retail display 
+8,Banana,29,98,339,452,green,fresh fruits (Day5),ready for retail display 
+9,Banana,29,98,339,444,green,fresh fruits (Day5),ready for retail display 
+10,Banana,29,98,339,421,green,fresh fruits (Day5),ready for retail display 
+11,Banana,29,98,340,422,green,fresh fruits (Day5),ready for retail display 
+12,Banana,29,98,341,426,green,fresh fruits (Day5),ready for retail display 
+13,Banana,29,98,345,430,green,fresh fruits (Day5),ready for retail display 
+14,Banana,29,98,400,333,green,fresh fruits (Day5),ready for retail display 
+15,Banana,29,98,405,333,green,fresh fruits (Day5),ready for retail display 
+16,Banana,29,98,410,335,green,fresh fruits (Day5),ready for retail display 
+17,Banana,29,98,422,340,green,fresh fruits (Day5),ready for retail display 
+18,Banana,29,98,426,364,green,fresh fruits (Day5),ready for retail display 
+19,Banana,29,98,430,364,green,fresh fruits (Day5),ready for retail display 
+20,Banana,29,98,433,364,green,fresh fruits (Day5),ready for retail display 
+21,Banana,29,98,433,303,green,fresh fruits (Day5),ready for retail display 
+22,Banana,29,98,435,303,green,fresh fruits (Day5),ready for retail display 
+23,Banana,29,98,440,303,green,fresh fruits (Day5),ready for retail display 
+24,Banana,29,98,443,300,green,fresh fruits (Day5),ready for retail display 
+25,Banana,29,98,450,300,green,fresh fruits (Day5),ready for retail display 
+26,Banana,29,98,456,300,green,fresh fruits (Day5),ready for retail display 
+27,Banana,29,98,460,300,green,fresh fruits (Day5),ready for retail display 
+28,Banana,29,98,460,337,green,fresh fruits (Day5),ready for retail display 
+29,Banana,29,98,460,337,green,fresh fruits (Day5),ready for retail display 
+30,Banana,29,98,460,338,green,fresh fruits (Day5),ready for retail display 
+31,Banana,29,98,465,338,green,fresh fruits (Day5),ready for retail display 
+32,Banana,29,98,468,334,yellow,fresh fruits (Day5),ready for retail display 
+33,Banana,29,98,470,335,yellow,fresh fruits (Day5),ready for retail display 
+34,Banana,29,98,472,339,yellow,fresh fruits (Day5),ready for retail display 
+35,Banana,29,98,472,339,yellow,fresh fruits (Day5),ready for retail display 
+36,Banana,29,98,472,338,yellow,fresh fruits (Day5),ready for retail display 
+37,Banana,29,98,472,337,yellow,fresh fruits (Day5),ready for retail display 
+38,Banana,29,98,472,338,yellow,fresh fruits (Day5),ready for retail display 
+39,Banana,29,98,480,339,yellow,fresh fruits (Day5),ready for retail display 
+40,Banana,29,98,485,339,yellow,fresh fruits (Day5),ready for retail display 
+41,Banana,29,98,486,339,yellow,fresh fruits (Day5),ready for retail display 
+42,Banana,29,98,487,339,yellow,fresh fruits (Day5),ready for retail display 
+43,Banana,29,98,487,339,yellow,fresh fruits (Day5),ready for retail display 
+44,Banana,29,98,487,339,yellow,fresh fruits (Day5),ready for retail display 
+45,Banana,29,98,487,339,yellow,fresh fruits (Day5),ready for retail display 
+1,Banana,29,98,487,339,yellow,fresh fruits (Day5),ready for retail display 
+2,Banana,31,90,489,340,yellow,fresh fruits (Day5),ready for retail display 
+3,Banana,31,90,490,345,yellow,fresh fruits (Day6),great eating flavor
+4,Banana,30,92,491,350,yellow,fresh fruits (Day6),great eating flavor
+5,Banana,31,92,493,361,yellow,fresh fruits (Day6),great eating flavor
+6,Banana,31,92,495,365,yellow,fresh fruits (Day6),great eating flavor
+7,Banana,31,92,496,366,yellow,fresh fruits (Day6),great eating flavor
+8,Banana,31,92,497,370,yellow,fresh fruits (Day6),great eating flavor
+9,Banana,31,92,509,371,yellow,fresh fruits (Day6),great eating flavor
+10,Banana,31,92,507,373,yellow,fresh fruits (Day6),great eating flavor
+11,Banana,31,92,507,374,yellow,fresh fruits (Day6),great eating flavor
+12,Banana,31,92,506,375,yellow,fresh fruits (Day6),great eating flavor
+13,Banana,31,92,506,376,yellow,fresh fruits (Day6),great eating flavor
+14,Banana,31,92,506,377,yellow,fresh fruits (Day6),great eating flavor
+15,Banana,31,92,506,378,yellow,fresh fruits (Day6),great eating flavor
+16,Banana,31,92,506,379,yellow,fresh fruits (Day6),great eating flavor
+17,Banana,31,92,500,380,yellow,fresh fruits (Day6),great eating flavor
+18,Banana,31,92,500,381,yellow,fresh fruits (Day6),great eating flavor
+19,Banana,31,92,507,382,yellow,fresh fruits (Day6),great eating flavor
+20,Banana,31,92,515,383,yellow,fresh fruits (Day6),great eating flavor
+21,Banana,31,92,517,384,yellow,fresh fruits (Day6),great eating flavor
+22,Banana,31,92,515,385,yellow,fresh fruits (Day6),great eating flavor
+23,Banana,31,92,515,385,yellow,fresh fruits (Day6),great eating flavor
+24,Banana,31,92,515,385,yellow,fresh fruits (Day6),great eating flavor
+25,Banana,31,92,520,400,yellow,fresh fruits (Day6),great eating flavor
+26,Banana,31,92,525,405,yellow,fresh fruits (Day6),great eating flavor
+27,Banana,31,92,523,410,yellow,fresh fruits (Day6),great eating flavor
+28,Banana,31,92,525,422,yellow,fresh fruits (Day6),great eating flavor
+29,Banana,31,92,526,426,yellow,fresh fruits (Day6),great eating flavor
+30,Banana,31,92,530,430,yellow,fresh fruits (Day6),great eating flavor
+31,Banana,31,92,531,433,yellow,fresh fruits (Day6),great eating flavor
+32,Banana,31,92,533,433,yellow,fresh fruits (Day6),great eating flavor
+33,Banana,31,92,534,435,yellow,fresh fruits (Day6),great eating flavor
+34,Banana,31,92,535,440,yellow,fresh fruits (Day6),great eating flavor
+35,Banana,31,92,536,443,yellow,fresh fruits (Day6),great eating flavor
+36,Banana,31,92,524,450,yellow,fresh fruits (Day6),great eating flavor
+37,Banana,31,92,525,456,yellow,fresh fruits (Day6),great eating flavor
+38,Banana,31,92,526,460,yellow,fresh fruits (Day6),great eating flavor
+39,Banana,31,92,530,460,yellow,fresh fruits (Day6),great eating flavor
+40,Banana,31,92,530,460,yellow,fresh fruits (Day6),great eating flavor
+41,Banana,31,92,530,460,yellow,fresh fruits (Day6),great eating flavor
+42,Banana,31,92,530,465,yellow,fresh fruits (Day6),great eating flavor
+43,Banana,31,92,530,468,yellow,fresh fruits (Day6),great eating flavor
+44,Banana,31,92,530,470,yellow,fresh fruits (Day6),great eating flavor
+45,Banana,31,92,530,472,yellow,fresh fruits (Day6),great eating flavor
+45,Banana,31,92,530,472,yellow,fresh fruits (Day6),great eating flavor
+45,Banana,31,92,530,472,yellow,fresh fruits (Day6),great eating flavor
+45,Banana,31,92,530,472,yellow,fresh fruits (Day6),great eating flavor
+1,Banana,30,88,540,298,yellow, (Day7),perfect for blender drinks 
+2,Banana,30,88,550,298,yellow, (Day7),perfect for blender drinks 
+3,Banana,30,88,551,298,yellow, (Day7),perfect for blender drinks 
+4,Banana,30,88,552,298,yellow, (Day7),perfect for blender drinks 
+5,Banana,30,88,554,298,yellow, (Day7),perfect for blender drinks 
+6,Banana,30,88,556,298,yellow, (Day7),perfect for blender drinks 
+7,Banana,30,88,558,298,yellow, (Day7),perfect for blender drinks 
+8,Banana,30,88,600,298,yellow, (Day7),perfect for blender drinks 
+9,Banana,30,88,600,298,yellow, (Day7),perfect for blender drinks 
+10,Banana,30,88,600,298,yellow, (Day7),perfect for blender drinks 
+11,Banana,30,88,600,298,yellow, (Day7),perfect for blender drinks 
+12,Banana,30,88,602,298,yellow, (Day7),perfect for blender drinks 
+13,Banana,30,88,602,298,yellow, (Day7),perfect for blender drinks 
+14,Banana,30,88,603,298,yellow, (Day7),perfect for blender drinks 
+15,Banana,30,88,603,298,yellow, (Day7),perfect for blender drinks 
+16,Banana,30,88,603,298,yellow, (Day7),perfect for blender drinks 
+17,Banana,30,88,603,298,yellow, (Day7),Start spoil
+18,Banana,30,88,603,298,yellow, (Day7),Start spoil
+19,Banana,30,88,603,298,yellow, (Day7),Start spoil
+20,Banana,30,88,603,298,yellow, (Day7),Start spoil
+21,Banana,30,88,603,298,yellow, (Day7),Start spoil
+22,Banana,30,88,603,298,yellow, (Day7),Start spoil
+23,Banana,30,88,602,298,yellow, (Day7),Start spoil
+24,Banana,30,88,603,298,yellow, (Day7),Start spoil
+25,Banana,30,88,604,298,yellow, (Day7),Start spoil
+26,Banana,30,88,605,298,yellow, (Day7),Start spoil
+27,Banana,30,88,608,298,yellow, (Day7),Start spoil
+28,Banana,30,88,608,298,yellow, (Day7),Start spoil
+29,Banana,30,88,608,298,yellow, (Day7),Start spoil
+30,Banana,30,88,608,298,yellow, (Day7),Start spoil
+31,Banana,30,88,608,298,yellow, (Day7),Start spoil
+32,Banana,30,88,608,298,yellow, (Day7),Start spoil
+33,Banana,30,88,608,298,yellow, (Day7),Start spoil
+34,Banana,30,88,608,298,yellow, (Day7),Start spoil
+35,Banana,30,88,608,298,yellow, (Day7),Start spoil
+36,Banana,30,88,609,298,yellow, (Day7),Start spoil
+37,Banana,30,88,609,298,yellow, (Day7),Start spoil
+38,Banana,30,88,610,298,yellow, (Day7),Start spoil
+39,Banana,30,88,610,298,yellow, (Day7),Start spoil
+40,Banana,30,88,611,298,yellow, (Day7),Start spoil
+41,Banana,30,88,611,298,yellow, (Day7),Start spoil
+42,Banana,30,88,612,298,yellow, (Day7),Start spoil
+43,Banana,30,88,612,298,yellow, (Day7),Start spoil
+44,Banana,30,88,613,298,yellow, (Day7),Start spoil
+45,Banana,30,88,613,298,yellow, (Day7),Start spoil
+,Banana,30,88,613,298,yellow, (Day7),Start spoil
